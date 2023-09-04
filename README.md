@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LikhithaAralimara
-- 👀 I’m interested in Blockchain 
+- 👀 I’m interested in DataAnalytics, Blockchain, webdev , .....
 - 💞️ Check out my blogs on https://medium.com/@likhithaaralimara
 
 
